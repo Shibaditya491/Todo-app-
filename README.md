@@ -31,7 +31,7 @@ Todolist/
 
 👨‍💻 Author
 
-Your Name
+Shibaditya Mukherjee
 
 GitHub
  | LinkedIn
